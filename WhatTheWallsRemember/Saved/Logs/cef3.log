@@ -1,5 +1,8 @@
-[6692:3396:0123/232140.885:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[6692:3896:0123/232141.084:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[6692:3396:0123/232141.264:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23848:23080:0123/232150.520:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3790C02FA8983FCA7B6CB53A7B974371 will be ignored
-[6692:3396:0123/232650.670:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16548:4868:0126/124939.208:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16548:28284:0126/124939.411:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16548:4868:0126/124939.573:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1668:23720:0126/125003.478:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-525B6D6ED571033F69236B7D95FDACEB will be ignored
+[16548:4868:0126/130757.615:ERROR:device_event_log_impl.cc(196)] [13:07:57.227] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[16548:4868:0126/143629.917:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16548:4868:0126/143630.564:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16548:4868:0126/153210.004:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
