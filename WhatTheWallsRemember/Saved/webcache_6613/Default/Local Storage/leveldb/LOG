@@ -1,3 +1,18 @@
-2026/01/26-12:50:03.175 14d4 Reusing MANIFEST C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/01/26-12:50:03.176 14d4 Recovering log #3
-2026/01/26-12:50:03.178 14d4 Reusing old log C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/02/07-10:07:32.471 1b74 Reusing MANIFEST C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/07-10:07:32.478 1b74 Recovering log #3
+2026/02/07-10:07:32.481 1b74 Reusing old log C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/02/07-10:25:02.783 1b74 Level-0 table #5: started
+2026/02/07-10:25:02.860 1b74 Level-0 table #5: 77253 bytes OK
+2026/02/07-10:25:02.866 1b74 Delete type=0 #3
+2026/02/07-10:29:29.592 4e0 Level-0 table #7: started
+2026/02/07-10:29:29.605 4e0 Level-0 table #7: 79999 bytes OK
+2026/02/07-10:29:29.609 4e0 Delete type=0 #4
+2026/02/07-10:36:24.467 4e0 Level-0 table #9: started
+2026/02/07-10:36:24.479 4e0 Level-0 table #9: 71238 bytes OK
+2026/02/07-10:36:24.483 4e0 Delete type=0 #6
+2026/02/07-10:55:22.922 4e0 Level-0 table #11: started
+2026/02/07-10:55:22.967 4e0 Level-0 table #11: 71046 bytes OK
+2026/02/07-10:55:22.972 4e0 Delete type=0 #8
+2026/02/07-10:55:39.596 4e0 Level-0 table #13: started
+2026/02/07-10:55:39.606 4e0 Level-0 table #13: 70586 bytes OK
+2026/02/07-10:55:39.611 4e0 Delete type=0 #10
