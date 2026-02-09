@@ -1,18 +1,51 @@
-2026/02/07-10:07:32.471 1b74 Reusing MANIFEST C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/07-10:07:32.478 1b74 Recovering log #3
-2026/02/07-10:07:32.481 1b74 Reusing old log C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
-2026/02/07-10:25:02.783 1b74 Level-0 table #5: started
-2026/02/07-10:25:02.860 1b74 Level-0 table #5: 77253 bytes OK
-2026/02/07-10:25:02.866 1b74 Delete type=0 #3
-2026/02/07-10:29:29.592 4e0 Level-0 table #7: started
-2026/02/07-10:29:29.605 4e0 Level-0 table #7: 79999 bytes OK
-2026/02/07-10:29:29.609 4e0 Delete type=0 #4
-2026/02/07-10:36:24.467 4e0 Level-0 table #9: started
-2026/02/07-10:36:24.479 4e0 Level-0 table #9: 71238 bytes OK
-2026/02/07-10:36:24.483 4e0 Delete type=0 #6
-2026/02/07-10:55:22.922 4e0 Level-0 table #11: started
-2026/02/07-10:55:22.967 4e0 Level-0 table #11: 71046 bytes OK
-2026/02/07-10:55:22.972 4e0 Delete type=0 #8
-2026/02/07-10:55:39.596 4e0 Level-0 table #13: started
-2026/02/07-10:55:39.606 4e0 Level-0 table #13: 70586 bytes OK
-2026/02/07-10:55:39.611 4e0 Delete type=0 #10
+2026/02/09-16:29:37.120 410 Reusing MANIFEST C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/09-16:29:37.128 410 Recovering log #24
+2026/02/09-16:29:37.134 410 Reusing old log C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\Local Storage\leveldb/000024.log 
+2026/02/09-16:48:22.001 410 Level-0 table #29: started
+2026/02/09-16:48:22.030 410 Level-0 table #29: 79451 bytes OK
+2026/02/09-16:48:22.039 410 Delete type=0 #24
+2026/02/09-17:15:48.674 410 Level-0 table #31: started
+2026/02/09-17:15:48.694 410 Level-0 table #31: 79750 bytes OK
+2026/02/09-17:15:48.705 410 Delete type=0 #28
+2026/02/09-17:16:41.581 b58 Level-0 table #33: started
+2026/02/09-17:16:41.602 b58 Level-0 table #33: 79822 bytes OK
+2026/02/09-17:16:41.609 b58 Delete type=0 #30
+2026/02/09-17:18:35.138 b58 Level-0 table #35: started
+2026/02/09-17:18:35.159 b58 Level-0 table #35: 79374 bytes OK
+2026/02/09-17:18:35.166 b58 Delete type=0 #32
+2026/02/09-17:18:35.168 b58 Compacting 4@0 + 1@1 files
+2026/02/09-17:18:35.194 b58 Generated table #36@0: 9 keys, 27610 bytes
+2026/02/09-17:18:35.194 b58 Compacted 4@0 + 1@1 files => 27610 bytes
+2026/02/09-17:18:35.197 b58 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/09-17:18:35.200 b58 Delete type=2 #26
+2026/02/09-17:18:35.200 b58 Delete type=2 #29
+2026/02/09-17:18:35.200 b58 Delete type=2 #31
+2026/02/09-17:18:35.200 b58 Delete type=2 #33
+2026/02/09-17:18:35.200 b58 Delete type=2 #35
+2026/02/09-17:19:24.902 b58 Level-0 table #38: started
+2026/02/09-17:19:24.919 b58 Level-0 table #38: 79434 bytes OK
+2026/02/09-17:19:24.927 b58 Delete type=0 #34
+2026/02/09-17:19:51.224 b58 Level-0 table #40: started
+2026/02/09-17:19:51.238 b58 Level-0 table #40: 79110 bytes OK
+2026/02/09-17:19:51.247 b58 Delete type=0 #37
+2026/02/09-17:20:44.010 b58 Level-0 table #42: started
+2026/02/09-17:20:44.026 b58 Level-0 table #42: 79333 bytes OK
+2026/02/09-17:20:44.033 b58 Delete type=0 #39
+2026/02/09-17:21:18.802 b58 Level-0 table #44: started
+2026/02/09-17:21:18.820 b58 Level-0 table #44: 80278 bytes OK
+2026/02/09-17:21:18.827 b58 Delete type=0 #41
+2026/02/09-17:21:18.829 b58 Compacting 4@0 + 1@1 files
+2026/02/09-17:21:18.850 b58 Generated table #45@0: 9 keys, 27978 bytes
+2026/02/09-17:21:18.851 b58 Compacted 4@0 + 1@1 files => 27978 bytes
+2026/02/09-17:21:18.853 b58 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/09-17:21:18.856 b58 Delete type=2 #36
+2026/02/09-17:21:18.857 b58 Delete type=2 #38
+2026/02/09-17:21:18.857 b58 Delete type=2 #40
+2026/02/09-17:21:18.857 b58 Delete type=2 #42
+2026/02/09-17:21:18.857 b58 Delete type=2 #44
+2026/02/09-17:21:58.606 b58 Level-0 table #47: started
+2026/02/09-17:21:58.624 b58 Level-0 table #47: 80622 bytes OK
+2026/02/09-17:21:58.630 b58 Delete type=0 #43
+2026/02/09-17:22:55.583 b58 Level-0 table #49: started
+2026/02/09-17:22:55.604 b58 Level-0 table #49: 80478 bytes OK
+2026/02/09-17:22:55.609 b58 Delete type=0 #46
