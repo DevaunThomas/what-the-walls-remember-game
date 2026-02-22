@@ -1,21 +1,3 @@
-[24232:19488:0221/141427.536:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24232:14900:0221/141427.958:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24232:19488:0221/141428.223:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[24232:14900:0221/141440.486:WARNING:leveldb_database.cc(141)] Unable to open C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24232:14900:0221/141440.496:WARNING:leveldb_database.cc(141)] Unable to open C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24232:14900:0221/141440.501:WARNING:leveldb_database.cc(141)] Unable to open C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24232:14900:0221/141440.508:WARNING:leveldb_database.cc(141)] Unable to open C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24232:14900:0221/141443.012:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24232:14900:0221/141443.016:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24980:13340:0221/141443.975:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6A4D507229B4F92C57B1E01A5CAC1232 will be ignored
-[24232:19488:0221/141448.754:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[24232:19488:0221/141448.754:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[24232:19488:0221/141448.754:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[24232:19488:0221/141448.755:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[24232:5612:0221/141449.026:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[24232:15664:0221/141449.774:WARNING:leveldb_database.cc(141)] Unable to open C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\CIS488 Unreal Projects\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16572:29124:0221/141708.444:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[16572:29124:0221/141708.447:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[24232:19488:0221/145603.037:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24232:19488:0221/145947.647:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24232:19488:0221/151513.791:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[13148:8052:0222/111555.543:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13148:15408:0222/111555.865:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[13148:8052:0222/111556.013:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
