@@ -1,20 +1,13 @@
-<<<<<<< HEAD
-[20084:4512:0223/212608.704:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[20084:21368:0223/212608.979:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[20084:4512:0223/212609.107:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21632:19644:0223/212630.640:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3D709EB1D9562F76BCC18E6AB3C92AF3 will be ignored
-[20084:4512:0223/213221.000:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[9544:23000:0223/231620.329:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[9544:30464:0223/231620.459:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[9544:23000:0223/231620.491:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9544:30464:0223/231624.296:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\9plaz\Documents\GitHub\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\9plaz\Documents\GitHub\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9544:30464:0223/231624.298:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\9plaz\Documents\GitHub\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\9plaz\Documents\GitHub\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9544:30464:0223/231624.299:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\9plaz\Documents\GitHub\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\9plaz\Documents\GitHub\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9544:30464:0223/231624.301:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\9plaz\Documents\GitHub\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\9plaz\Documents\GitHub\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9544:4112:0223/231624.602:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9544:4112:0223/231624.603:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8732:25180:0223/231625.646:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9785AEF5BC46BA9F3000076D3629573B will be ignored
-[9544:15292:0223/231626.208:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\9plaz\Documents\GitHub\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\9plaz\Documents\GitHub\What_The_Walls_Remember_Game\WhatTheWallsRemember\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9544:23000:0223/232035.078:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> main
+[28660:25764:0224/154834.795:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28660:11812:0224/154835.154:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28660:25764:0224/154835.319:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26792:20028:0224/154846.336:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4C85A078240D5972B997D2996EF823B2 will be ignored
+[28660:25764:0224/154930.366:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[28660:25764:0224/155032.348:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[28660:25764:0224/155334.442:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[28660:25764:0224/155431.796:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[28660:25764:0224/161033.015:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[28660:25764:0224/161047.563:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[28124:21948:0224/163747.543:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame E-42C45F66269ED5DA1598A94C3BFE64E4 will be ignored
+[11844:11908:0224/163819.965:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[11844:11908:0224/163819.969:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
