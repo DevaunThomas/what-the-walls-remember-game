@@ -1,14 +1,19 @@
-[28660:25764:0224/154834.795:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[28660:11812:0224/154835.154:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[28660:25764:0224/154835.319:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[26792:20028:0224/154846.336:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4C85A078240D5972B997D2996EF823B2 will be ignored
-[28660:25764:0224/154930.366:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[28660:25764:0224/155032.348:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[28660:25764:0224/155334.442:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[28660:25764:0224/155431.796:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[28660:25764:0224/161033.015:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[28660:25764:0224/161047.563:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[28124:21948:0224/163747.543:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame E-42C45F66269ED5DA1598A94C3BFE64E4 will be ignored
-[11844:11908:0224/163819.965:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[11844:11908:0224/163819.969:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[28660:25764:0224/164738.990:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[23504:14360:0224/174715.571:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23504:23736:0224/174715.906:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23504:14360:0224/174716.045:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25508:13920:0224/174819.940:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FCB5A8BCBE56BB1DF9291EB0AE6EA23B will be ignored
+[23504:14360:0224/174901.403:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/174911.503:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/175013.686:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/175018.701:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/175023.750:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/175151.498:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/175513.354:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/175547.419:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/175635.526:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/175640.948:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/175650.967:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/175803.467:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/175922.627:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/175932.717:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23504:14360:0224/182014.792:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
