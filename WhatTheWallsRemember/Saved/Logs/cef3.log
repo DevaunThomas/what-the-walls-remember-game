@@ -1,15 +1,7 @@
-<<<<<<< HEAD
-[21220:10208:0331/131745.496:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21220:6500:0331/131745.773:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[21220:10208:0331/131747.113:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[7428:11684:0331/131800.475:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-57963C0E067FA9B282DA21F45F307FB5 will be ignored
-[21220:10208:0331/131916.957:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[22772:22940:0331/170133.492:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22772:23500:0331/170134.176:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[22772:22940:0331/170134.329:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[22512:22060:0331/170205.213:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F4A71C10B4C3CC262425052E978555CA will be ignored
-[572:3932:0331/170335.277:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-1FD3B4551B15BCC3E2C535DE21EDAB5D will be ignored
-[17648:8480:0331/170842.958:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame E-8256C6D383552D6D03DF2FA8412E8B2B will be ignored
-[22772:22940:0331/171201.930:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> main
+[29368:17116:0401/154241.696:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29368:22560:0401/154242.128:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[29368:17116:0401/154242.314:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16400:23116:0401/154256.422:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B4151005EFAF6DDBE2792D25A274F04C will be ignored
+[29368:17116:0401/155217.285:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[29368:17116:0401/155601.036:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[29368:17116:0401/160945.328:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
