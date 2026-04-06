@@ -5,3 +5,4 @@
 [4292:11148:0406/071840.600:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension fheoggkfdfchfphceeifdbepaooicaho
 [4292:11148:0406/072252.050:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
 [4292:11148:0406/072533.307:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[4292:11148:0406/072905.690:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
