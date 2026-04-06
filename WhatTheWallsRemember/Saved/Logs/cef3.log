@@ -1,7 +1,8 @@
-[29368:17116:0401/154241.696:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[29368:22560:0401/154242.128:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[29368:17116:0401/154242.314:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[16400:23116:0401/154256.422:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B4151005EFAF6DDBE2792D25A274F04C will be ignored
-[29368:17116:0401/155217.285:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29368:17116:0401/155601.036:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29368:17116:0401/160945.328:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[4292:11148:0406/071752.912:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4292:7704:0406/071753.407:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4292:11148:0406/071753.621:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4292:11148:0406/071808.844:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[4292:11148:0406/071840.600:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension fheoggkfdfchfphceeifdbepaooicaho
+[4292:11148:0406/072252.050:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[4292:11148:0406/072533.307:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[4292:11148:0406/072905.690:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
