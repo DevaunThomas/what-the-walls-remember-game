@@ -1,13 +1,5 @@
-[23736:8776:0407/140920.734:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23736:12588:0407/140921.050:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23736:8776:0407/140921.264:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[3908:21988:0407/140931.934:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0FBC9AAD029D1F48387BB745105D1E69 will be ignored
-[23736:8776:0407/140932.924:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[23736:8776:0407/140932.924:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[23736:8776:0407/140932.927:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[23736:8776:0407/140932.927:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[23736:17296:0407/140933.102:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[4196:24552:0407/140958.035:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[14268:4468:0407/141152.311:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[14268:4468:0407/141152.313:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[23736:8776:0407/150455.918:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[22348:15628:0407/161107.163:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22348:23388:0407/161107.454:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22348:15628:0407/161107.592:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19024:20200:0407/161122.398:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B364174E6F1B106B7F8A40F594E720CA will be ignored
+[22348:15628:0407/162545.824:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
