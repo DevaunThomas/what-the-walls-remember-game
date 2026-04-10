@@ -5537,3 +5537,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.10-22.16.27:652][768]LogD3D11RHI: Shutdown
 [2026.04.10-22.16.27:652][768]LogD3D11RHI: CleanupD3DDevice
 [2026.04.10-22.16.28:478][768]LogD3D11RHI: Intel Extensions Framework unloaded
+[2026.04.10-22.16.29:295][768]LogExit: Exiting.
+[2026.04.10-22.16.30:214][768]Log file closed, 04/10/26 18:16:30
