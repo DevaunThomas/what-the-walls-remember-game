@@ -2928,3 +2928,71 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.10-19.05.44:319][182]LogContentValidation: Validated asset counts for 1 validators:
 [2026.04.10-19.05.44:319][182]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
 [2026.04.10-19.05.50:325][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2026.04.10-19.09.49:109][202]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4790.028320
+[2026.04.10-19.09.49:352][205]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.10-19.09.49:352][205]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4790.210938, Update Interval: 350.654022
+[2026.04.10-19.12.15:355][696]LogUObjectHash: Compacting FUObjectHashTables data took  12.50ms
+[2026.04.10-19.12.15:384][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.10-19.12.15:443][696]LogFileHelpers: Saving Package: /Game/Blueprints/BP_StoryInteractable
+[2026.04.10-19.12.15:443][696]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_StoryInteractable] ([2] browsable assets)...
+[2026.04.10-19.12.15:443][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_StoryInteractable]
+[2026.04.10-19.12.15:468][696]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_StoryInteractable
+[2026.04.10-19.12.15:471][696]LogSavePackage: Moving '../../../../../../CIS488 Unreal Projects/What_The_Walls_Remember_Game/WhatTheWallsRemember/Saved/BP_StoryInteractableEB51818F46CF029E491131BA88E7AD1C.tmp' to '../../../../../../CIS488 Unreal Projects/What_The_Walls_Remember_Game/WhatTheWallsRemember/Content/Blueprints/BP_StoryInteractable.uasset'
+[2026.04.10-19.12.15:497][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.631 ms (total: 2.47 sec)
+[2026.04.10-19.12.15:573][696]LogContentValidation: Enabled validators:
+[2026.04.10-19.12.15:573][696]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.10-19.12.15:573][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.10-19.12.15:573][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.10-19.12.15:573][696]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.10-19.12.15:573][696]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.10-19.12.15:574][696]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.10-19.12.15:574][696]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.04.10-19.12.15:574][696]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.04.10-19.12.15:575][696]AssetCheck: /Game/Blueprints/BP_StoryInteractable Validating asset
+[2026.04.10-19.12.15:577][696]LogContentValidation: Validated asset counts for 1 validators:
+[2026.04.10-19.12.15:577][696]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.04.10-19.13.24:702][953]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2026.04.10-19.13.24:744][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.10-19.13.24:819][953]LogFileHelpers: Saving Package: /Game/LevelPrototyping/WBP_StoryText
+[2026.04.10-19.13.24:820][953]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelPrototyping/WBP_StoryText] ([2] browsable assets)...
+[2026.04.10-19.13.24:830][953]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/LevelPrototyping/WBP_StoryText.WBP_StoryText]
+[2026.04.10-19.13.24:830][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/WBP_StoryText]
+[2026.04.10-19.13.24:861][953]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/WBP_StoryText
+[2026.04.10-19.13.24:861][953]LogSavePackage: Moving '../../../../../../CIS488 Unreal Projects/What_The_Walls_Remember_Game/WhatTheWallsRemember/Saved/WBP_StoryTextCD31BBDF4DE5A8B2EA673C96197B4F09.tmp' to '../../../../../../CIS488 Unreal Projects/What_The_Walls_Remember_Game/WhatTheWallsRemember/Content/LevelPrototyping/WBP_StoryText.uasset'
+[2026.04.10-19.13.24:883][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.138 ms (total: 2.61 sec)
+[2026.04.10-19.13.24:949][953]LogContentValidation: Enabled validators:
+[2026.04.10-19.13.24:949][953]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.10-19.13.24:949][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.10-19.13.24:949][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.10-19.13.24:949][953]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.10-19.13.24:949][953]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.10-19.13.24:949][953]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.10-19.13.24:949][953]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.04.10-19.13.24:949][953]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.04.10-19.13.24:951][953]AssetCheck: /Game/LevelPrototyping/WBP_StoryText Validating asset
+[2026.04.10-19.13.24:951][953]LogContentValidation: Validated asset counts for 2 validators:
+[2026.04.10-19.13.24:951][953]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.04.10-19.13.24:951][953]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.04.10-19.14.32:567][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.04.10-19.14.32:587][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.10-19.14.32:650][119]LogFileHelpers: Saving Package: /Game/LevelPrototyping/WBP_StoryText
+[2026.04.10-19.14.32:650][119]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelPrototyping/WBP_StoryText] ([2] browsable assets)...
+[2026.04.10-19.14.32:652][119]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/LevelPrototyping/WBP_StoryText.WBP_StoryText]
+[2026.04.10-19.14.32:652][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/WBP_StoryText]
+[2026.04.10-19.14.32:666][119]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/WBP_StoryText
+[2026.04.10-19.14.32:666][119]LogSavePackage: Moving '../../../../../../CIS488 Unreal Projects/What_The_Walls_Remember_Game/WhatTheWallsRemember/Saved/WBP_StoryTextC05574454A719108062991AB1EFC369C.tmp' to '../../../../../../CIS488 Unreal Projects/What_The_Walls_Remember_Game/WhatTheWallsRemember/Content/LevelPrototyping/WBP_StoryText.uasset'
+[2026.04.10-19.14.32:680][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.335 ms (total: 2.70 sec)
+[2026.04.10-19.14.32:760][119]LogContentValidation: Enabled validators:
+[2026.04.10-19.14.32:761][119]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.10-19.14.32:761][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.10-19.14.32:761][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.10-19.14.32:761][119]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.10-19.14.32:761][119]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.10-19.14.32:761][119]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.10-19.14.32:761][119]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.04.10-19.14.32:761][119]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.04.10-19.14.32:762][119]AssetCheck: /Game/LevelPrototyping/WBP_StoryText Validating asset
+[2026.04.10-19.14.32:762][119]LogContentValidation: Validated asset counts for 2 validators:
+[2026.04.10-19.14.32:762][119]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.04.10-19.14.32:762][119]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.04.10-19.14.38:861][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
