@@ -1,11 +1,3 @@
 [23032:15752:0410/135010.309:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [23032:18296:0410/135011.038:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [23032:15752:0410/135011.298:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23032:15752:0410/154749.325:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[23032:15752:0410/154804.743:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[23032:15752:0410/160759.329:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[23032:15752:0410/161151.164:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[23032:15752:0410/161524.958:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[23032:15752:0410/173111.131:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[23032:15752:0410/181046.410:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[23032:15752:0410/181612.699:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
