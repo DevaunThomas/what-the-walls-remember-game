@@ -5516,3 +5516,12 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.10-22.15.30:980][768]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2026.04.10-22.15.35:538][768]LogExit: Editor shut down
 [2026.04.10-22.15.36:214][768]LogExit: Transaction tracking system shut down
+[2026.04.10-22.16.04:934][768]LogExit: Object subsystem successfully closed.
+[2026.04.10-22.16.05:185][768]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.10-22.16.16:216][768]LogMemoryProfiler: Shutdown
+[2026.04.10-22.16.16:234][768]LogNetworkingProfiler: Shutdown
+[2026.04.10-22.16.16:238][768]LoadingProfiler: Shutdown
+[2026.04.10-22.16.16:247][768]LogTimingProfiler: Shutdown
+[2026.04.10-22.16.16:368][768]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.10-22.16.16:370][768]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.10-22.16.18:676][768]LogWebBrowser: Deleting browser for Url=https://editor.unrealengine.com/en-US/get-started-with-unreal-engine.
