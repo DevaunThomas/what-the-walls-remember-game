@@ -1,3 +1,9 @@
-[23032:15752:0410/135010.309:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23032:18296:0410/135011.038:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23032:15752:0410/135011.298:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17468:7724:0413/234959.219:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17468:13992:0413/234959.879:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17468:7724:0413/235000.173:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17468:7724:0413/235020.062:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[17468:7724:0413/235020.062:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[17468:7724:0413/235020.063:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[17468:7724:0413/235020.075:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[17468:8268:0413/235020.261:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[17468:7724:0413/235302.519:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
