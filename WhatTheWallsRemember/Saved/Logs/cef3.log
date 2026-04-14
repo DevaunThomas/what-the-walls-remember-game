@@ -1,60 +1,9 @@
-[3016:19396:0413/223414.700:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[3016:3328:0413/223415.141:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[3016:19396:0413/223415.296:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[3016:19396:0413/223446.625:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[24840:12120:0413/224207.661:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24840:3760:0413/224207.954:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24840:12120:0413/224208.227:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[24840:12120:0413/224235.319:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[24840:12120:0413/224321.004:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224322.104:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224326.018:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224331.355:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224332.440:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224336.663:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224337.489:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224341.789:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224343.244:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224347.113:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224349.984:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224355.137:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224356.006:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224400.212:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224400.673:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224405.227:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224405.889:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224410.228:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224437.140:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224438.896:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224442.140:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224443.897:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224447.142:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224448.896:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224452.149:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224454.009:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224457.147:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224547.256:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224548.662:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224553.664:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224557.258:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224558.666:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224602.272:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224603.721:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224817.318:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224821.626:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224822.635:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/224826.628:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224827.647:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224948.808:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/224958.439:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/225002.324:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/225003.438:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/225006.992:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/225008.438:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/225011.992:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/225013.439:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/225017.321:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/225259.390:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/225302.365:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24840:12120:0413/225304.390:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3016:19396:0413/230130.621:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[17468:7724:0413/234959.219:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17468:13992:0413/234959.879:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17468:7724:0413/235000.173:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17468:7724:0413/235020.062:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[17468:7724:0413/235020.062:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[17468:7724:0413/235020.063:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[17468:7724:0413/235020.075:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[17468:8268:0413/235020.261:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[17468:7724:0413/235302.519:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
