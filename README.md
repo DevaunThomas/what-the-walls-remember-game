@@ -9,5 +9,7 @@ First Level:
   The goal of the first level is to set the tone of the game and begin to introduce the house to the player so that they can learn how to “read” the house. We also want to begin to demonstrate the adaptive behavior of the house which will be the precursor for our AI aspect. We would end on a strong hook. We are not looking to introduce any combat or boss fights at this point.The goal for the player is essentially “Look for anything that might explain what happened here.”
 
 ## First Level
-<img width="830" height="455" alt="Screenshot 2026-03-08 120343" src="https://github.com/user-attachments/assets/9d33dd29-3341-438b-aa39-dcfbfdc3eb4a" />
+<img width="1289" height="707" alt="Screenshot 2026-09-02 152825" src="https://github.com/user-attachments/assets/11c3ee82-3aa8-4663-8f2d-cc4938196f13" />
 
+## Suspenseful Moments
+<img width="784" height="611" alt="Screenshot 2026-09-02 152904" src="https://github.com/user-attachments/assets/8f790527-279b-4e91-a540-2566e7eb19d9" />
