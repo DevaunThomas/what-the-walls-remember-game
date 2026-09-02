@@ -159,7 +159,7 @@ This project provided experience with several software engineering and game-deve
 
 ## Project Status
 
-The project has progressed through Alpha, Beta, and final development milestones.
+The project has progressed through Alpha and Beta lifecycles to this point.
 
 Core gameplay systems, environmental events, player interaction systems, and the adaptive horror framework have been implemented.
 
